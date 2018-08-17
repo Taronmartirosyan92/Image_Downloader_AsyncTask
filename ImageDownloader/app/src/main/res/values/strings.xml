@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">ImageDownloader</string>
+    <string name="download">download</string>
+    <string name="text_url">url..</string>
+    <string name="image_fr">Image</string>
+    <string name="images">Images</string>
+    <string name="upload">Image Uploaded</string>
+    <string name="format_jpg">.jpg</string>
+    <string name="fraction">/</string>
+    <string-array name="imageUrls">
+        <item name="1">https://www.w3schools.com/w3css/img_lights.jpg</item>
+        <item>https://www.gettyimages.ca/gi-resources/images/Homepage/Hero/UK/CMS_Creative_164657191_Kingfisher.jpg</item>
+        <item>https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/after-every-storm-the-sun-will-smile-colorful-abstract-art-painting-modern-art-prints.jpg</item>
+        <item>https://www.reduceimages.com/img/image-after.jpg</item>
+        <item>https://www.codeproject.com/KB/GDI-plus/ImageProcessing2/img.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/a/aa/Polarlicht_2.jpg</item>
+        <item>http://thewowstyle.com/wp-content/uploads/2015/07/natural-wallpaper-for-desktop.jpeg</item>
+        <item>https://s3.freefoto.com/images/01/01/01_01_60_web.jpg</item>
+        <item>https://cdn.arstechnica.net/wp-content/uploads/2016/07/Snow-line-artists-conception-640x543.jpg</item>
+        <item>https://spaceplace.nasa.gov/review/3d-gallery/sun-sdo-disk.en.jpg</item>
+        <item>http://dretchstorm.com/wp-content/uploads/2017/08/pictures-nature-beauty-5-desktop-natural-beauty-afari-on-image-nature-full-hd-pics-of-laptop.jpg</item>
+    </string-array>
+
+    <string-array name="nameImg">
+        <item>Image1</item>
+        <item>Image2</item>
+        <item>Image3</item>
+        <item>Image4</item>
+        <item>Image5</item>
+        <item>Image6</item>
+        <item>Image7</item>
+        <item>Image8</item>
+        <item>Image9</item>
+        <item>Image10</item>
+        <item>Image11</item>
+    </string-array>
+</resources>
